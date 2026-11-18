@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Per-user preferences written by the app (local paths, window position)
+settings.json
+
+# Local sample images and their annotations (large; not for the public repo)
+/workingset/
+
+# Detector helper copied in locally (see README > Installation)
+/maskpostprocessor.py
